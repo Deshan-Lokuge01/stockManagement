@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Deshan\Desktop\stockManagement_01\stockManagement_01\main.cpp(75,6): warning C4101: 'subTotal': unreferenced local variable
+C:\Users\Deshan\Desktop\stockManagement_01\stockManagement_01\Header.h(448): warning C4715: 'Items_List::searchSellPrice': not all control paths return a value
+C:\Users\Deshan\Desktop\stockManagement_01\stockManagement_01\main.cpp(239): warning C4717: 'selectMenu': recursive on all control paths, function will cause runtime stack overflow
+  stockManagement_01.vcxproj -> C:\Users\Deshan\Desktop\stockManagement_01\x64\Debug\stockManagement_01.exe
