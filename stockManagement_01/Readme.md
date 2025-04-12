@@ -1,0 +1,1 @@
+#This is a Mini Stock handling project using data structures and algorithms / c++
