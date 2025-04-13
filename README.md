@@ -27,9 +27,13 @@ A C++ based inventory management system featuring:
   
   **Features Shown:**
    Customer/Supplier registration
+   
    Item data input
+   
    Input validation
+   
    Error prevention
+   
 </div>
 
 ### Transaction Processing :
@@ -38,9 +42,13 @@ A C++ based inventory management system featuring:
   
   **Features Shown:**
    Goods receiving/selling
+   
    Inventory updates
+   
    Transaction summaries
+   
    Stock level visualization
+   
 </div>
 
 ---
